@@ -1,3 +1,3 @@
 # Colour-Detection-Using-Opencv-python
 
-![Colour Detection](https://user-images.githubusercontent.com/59309459/102706815-23b03480-42bb-11eb-9cb0-19e8555a4765.jpeg)
+![Colour Detection](https://user-images.githubusercontent.com/59309459/102706876-b3ee7980-42bb-11eb-89b4-654a89142ad9.jpeg)
